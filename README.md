@@ -1,16 +1,30 @@
-### Hi there 👋
+Hello! I'm currently a student at Lambda School for full stack web development. I am currently seeking opportunities where I can further develop my self, technical abilities and grow with others. 
 
-<!--
-**spazdrum/spazdrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some things that I have learned and worked on in the past include:
 
-Here are some ideas to get you started:
+## Basics
+```
+- HTML
+- CSS
+- SCSS/LESS
+- Javascript
+- Developing web applications/APIs
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## React Frontend
+```
+- Router
+- Redux (Thunk)
+- Context API
+- Custom hooks
+- Jest.js
+```
+
+## Node.js Backend
+```
+- REST APIs
+- Express.js
+- Knex.js
+- Authentication (Tokens/Cookies/3rd-party)
+- RDBMS (SQL, PostgreSQL)
+```

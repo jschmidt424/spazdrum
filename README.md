@@ -1,6 +1,6 @@
 Hello! I'm currently a student at Lambda School for full stack web development. I am currently seeking opportunities where I can further develop my self, technical abilities and grow with others. 
 
-Some things that I have learned and worked on in the past include:
+Some things that I have learned and worked on include:
 
 ## Basics
 ```

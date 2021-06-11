@@ -1,4 +1,6 @@
-Hello! I'm currently a student at Lambda School for full stack web development. I am currently seeking opportunities where I can further develop my self, technical abilities and grow with others. 
+# Hello! :vulcan_salute:
+
+### Hello, I'm Josh! I am a software engineer that is passionate about music to groove to, competitive gaming, building a community and making the world funner for everyone. 
 
 Some things that I have learned and worked on include:
 
@@ -28,3 +30,7 @@ Some things that I have learned and worked on include:
 - Authentication (Tokens/Cookies/3rd-party)
 - RDBMS (SQL, PostgreSQL)
 ```
+
+#### You can find me around the web! 
+ - Learning and gaming on [Twitch](https://twitch.tv/spazdrum)
+ - Sharing the fun adventures of code, music and games on [Linkedin](https://linkedin.com/in/jschmidt21)
